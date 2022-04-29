@@ -1,0 +1,56 @@
+body 
+{
+	font-family: 'Roboto', sans-serif;
+	background-color: #c3dcdd;
+}
+.Main 
+{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.Container 
+{
+	border-radius: 10px;
+	width: 250px; 
+	background-color: #fff;
+	margin: 5px;
+	padding: 10px;
+}
+.Header
+{
+
+}
+
+img 
+{
+	border-radius: 15px;
+}
+
+h1
+{
+	display: flex;
+	color: #474747;
+}
+
+p 
+{
+	display: flex;
+	color: gray;
+}
+
+.btn 
+{
+	display: flex;
+	justify-content: space-around;
+    background: linear-gradient(to right, #525fd8, #6090a6);
+    color: #fff;
+    padding: 16 24; /* Поля вокруг текста */
+    text-decoration: none; /* Убирает подчёркивание */
+    border-radius: 20px; 
+}
+
+.btn:hover 
+{
+	color: #2dcad0;
+}
