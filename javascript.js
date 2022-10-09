@@ -63,8 +63,8 @@ function checkWinner() {
 }
 
 function drawScore() {
-    player1ScoreSpan.innerHTML = "Игрок 1: " + score.player1;
-    player2ScoreSpan.innerHTML = "Игрок 2: " + score.player2;
+    player1ScoreSpan.innerHTML = "РРіСЂРѕРє 1: " + score.player1;
+    player2ScoreSpan.innerHTML = "РРіСЂРѕРє 2: " + score.player2;
 }
 drawScore();
 
