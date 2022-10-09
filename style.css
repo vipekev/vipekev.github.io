@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #22837f;
+    font-family: Arial, Arial, Helvetica, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content:center;
+    flex-direction:column;
+    align-items:center;
+    height: 700px;
+}
+
+.gameField {
+    width: 300px;
+    height: 300px;
+}
+
+.cells {
+    display: flex;
+}
+
+.cell {
+    background-color: #4d0080;
+    font-size: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.score {
+    display: flex;
+    justify-content:space-between;
+    width: 300px;
+    font-size: 20px;
+}
+
+.restart {
+    background-color: #ffee42;
+    margin-top: 10px;
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: all ease 0.5s;
+}
+.restart:hover{
+    background-color:orangered;
+}
