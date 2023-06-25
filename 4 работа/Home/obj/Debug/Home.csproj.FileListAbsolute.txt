@@ -1,0 +1,57 @@
+C:\Users\Пользователь\source\repos\Home\Home\bin\Debug\Home.exe.config
+C:\Users\Пользователь\source\repos\Home\Home\bin\Debug\Home.exe
+C:\Users\Пользователь\source\repos\Home\Home\bin\Debug\Home.pdb
+C:\Users\Пользователь\source\repos\Home\Home\bin\Debug\5.dll
+C:\Users\Пользователь\source\repos\Home\Home\bin\Debug\5.pdb
+C:\Users\Пользователь\source\repos\Home\Home\obj\Debug\Home.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Home\Home\obj\Debug\Home.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\Home\Home\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\source\repos\Home\Home\obj\Debug\App.g.cs
+C:\Users\Пользователь\source\repos\Home\Home\obj\Debug\Home_MarkupCompile.cache
+C:\Users\Пользователь\source\repos\Home\Home\obj\Debug\Home_MarkupCompile.lref
+C:\Users\Пользователь\source\repos\Home\Home\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\source\repos\Home\Home\obj\Debug\Home.g.resources
+C:\Users\Пользователь\source\repos\Home\Home\obj\Debug\Home.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Home\Home\obj\Debug\Home.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Home\Home\obj\Debug\Home.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Home\Home\obj\Debug\Home.csproj.CopyComplete
+C:\Users\Пользователь\source\repos\Home\Home\obj\Debug\Home.exe
+C:\Users\Пользователь\source\repos\Home\Home\obj\Debug\Home.pdb
+C:\Users\Пользователь\source\repos\Home1\Home\bin\Debug\Home.exe.config
+C:\Users\Пользователь\source\repos\Home1\Home\bin\Debug\Home.exe
+C:\Users\Пользователь\source\repos\Home1\Home\bin\Debug\Home.pdb
+C:\Users\Пользователь\source\repos\Home1\Home\bin\Debug\5.dll
+C:\Users\Пользователь\source\repos\Home1\Home\bin\Debug\5.pdb
+C:\Users\Пользователь\source\repos\Home1\Home\obj\Debug\Home.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Home1\Home\obj\Debug\Home.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\Home1\Home\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\source\repos\Home1\Home\obj\Debug\App.g.cs
+C:\Users\Пользователь\source\repos\Home1\Home\obj\Debug\Home_MarkupCompile.cache
+C:\Users\Пользователь\source\repos\Home1\Home\obj\Debug\Home_MarkupCompile.lref
+C:\Users\Пользователь\source\repos\Home1\Home\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\source\repos\Home1\Home\obj\Debug\Home.g.resources
+C:\Users\Пользователь\source\repos\Home1\Home\obj\Debug\Home.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Home1\Home\obj\Debug\Home.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Home1\Home\obj\Debug\Home.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Home1\Home\obj\Debug\Home.csproj.CopyComplete
+C:\Users\Пользователь\source\repos\Home1\Home\obj\Debug\Home.exe
+C:\Users\Пользователь\source\repos\Home1\Home\obj\Debug\Home.pdb
+C:\Users\ISTRA\Desktop\Новая папка (2)\Home1\Home\bin\Debug\Home.exe.config
+C:\Users\ISTRA\Desktop\Новая папка (2)\Home1\Home\bin\Debug\Home.exe
+C:\Users\ISTRA\Desktop\Новая папка (2)\Home1\Home\bin\Debug\Home.pdb
+C:\Users\ISTRA\Desktop\Новая папка (2)\Home1\Home\bin\Debug\5.dll
+C:\Users\ISTRA\Desktop\Новая папка (2)\Home1\Home\bin\Debug\5.pdb
+C:\Users\ISTRA\Desktop\Новая папка (2)\Home1\Home\obj\Debug\Home.csproj.AssemblyReference.cache
+C:\Users\ISTRA\Desktop\Новая папка (2)\Home1\Home\obj\Debug\Home.csproj.SuggestedBindingRedirects.cache
+C:\Users\ISTRA\Desktop\Новая папка (2)\Home1\Home\obj\Debug\MainWindow.g.cs
+C:\Users\ISTRA\Desktop\Новая папка (2)\Home1\Home\obj\Debug\App.g.cs
+C:\Users\ISTRA\Desktop\Новая папка (2)\Home1\Home\obj\Debug\Home_MarkupCompile.cache
+C:\Users\ISTRA\Desktop\Новая папка (2)\Home1\Home\obj\Debug\Home_MarkupCompile.lref
+C:\Users\ISTRA\Desktop\Новая папка (2)\Home1\Home\obj\Debug\MainWindow.baml
+C:\Users\ISTRA\Desktop\Новая папка (2)\Home1\Home\obj\Debug\Home.g.resources
+C:\Users\ISTRA\Desktop\Новая папка (2)\Home1\Home\obj\Debug\Home.Properties.Resources.resources
+C:\Users\ISTRA\Desktop\Новая папка (2)\Home1\Home\obj\Debug\Home.csproj.GenerateResource.cache
+C:\Users\ISTRA\Desktop\Новая папка (2)\Home1\Home\obj\Debug\Home.csproj.CoreCompileInputs.cache
+C:\Users\ISTRA\Desktop\Новая папка (2)\Home1\Home\obj\Debug\Home.csproj.CopyComplete
+C:\Users\ISTRA\Desktop\Новая папка (2)\Home1\Home\obj\Debug\Home.exe
+C:\Users\ISTRA\Desktop\Новая папка (2)\Home1\Home\obj\Debug\Home.pdb
