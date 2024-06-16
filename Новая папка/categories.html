@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+	<head>
+	
+	<meta charset="UTF-8">
+	<title>Мебельный магазин</title>
+	<link rel="icon" type="image/icon" href="images/icon.png">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/categories.css">
+	
+	</head>
+	<body>
+	
+	<header class="header">
+		<a href="index.html" class="logo"> <i class="fa fa-home"></i> Мебельный Магазин</a>
+		
+		<nav class="navbar">
+			<a href="index.html">Главная</a>
+			<a href="review.html">О нас</a>
+			<a href="opinion.html">Отзыв</a>
+			<a href="categories.html" class="test2">Каталог</a>
+			<a href="contacts.html">Контакты</a>
+			<a href="register.html">Регистрация</a>
+			<a class="test3" href="login.html">Вход</a>
+		</nav>
+		
+		<div class="icons">
+			<div class="fa fa-bars" id="menu-btn"></div>
+			<div class="fa fa-search" id="search-btn"></div>
+			<div class="fa fa-shopping-cart" id="cart-btn"></div>
+			<div class="fa fa-user" id="login-btn"></div>
+		</div>
+		
+		<form class="search-form">
+			<input type="search" id="search-box" placeholder="Поиск по сайту">
+			<label for="search-box" class="fa fa-search"></label>
+		</form>
+		
+		<form action="#" class="login-form">
+			<h3>Авторизоваться</h3>
+			<input type="email" placeholder="ваш адрес электронной почты" class="box">
+			<input type="password" placeholder="ваш пароль" class="box">
+			
+			<p>Забыли свой пароль? <a href="#">Кликните сюда</a></p>
+			<p>У вас нет учетной записи? <a href="#">Создать сейчас</a></p>
+			
+			<input type="submit" value="Войти" class="btn">
+		</form>
+		
+	</header>
+	
+	<section class="home" id="home">
+		<div class="content">
+			<h1 class="title">Каталог мебели</h1>
+			<ul class="list">
+				<li class="list_item active" data-id="all">Все</li>
+				<li class="list_item" data-id="wardrobe">Шкаф</li>
+				<li class="list_item" data-id="bed">Кровать</li>
+				<li class="list_item" data-id="sofa">Диван</li>
+				<li class="list_item" data-id="table">Стол</li>
+			</ul>
+			<div class="blocks">
+				<div class="blocks_row">
+					<div class="blocks_item sofa sofa1">
+						<img src="images/catalog/sofa1.jpg" class="img">
+						<div class="disp">
+							<p class="fon">Диван</p>
+							<span>Цена:15,000р.</span>
+						</div>
+					</div>
+					<div class="blocks_item table table1">
+						<img src="images/catalog/table1.jpg" class="img">
+						<div class="disp">
+							<p class="fon">Стол</p>
+							<span>Цена:10,000р.</span>
+						</div>
+					</div>
+					<div class="blocks_item wardrobe wardrobe1">
+						<img src="images/catalog/wardrobe1.jpg" class="img">
+						<div class="disp">
+							<p class="fon">Шкаф</p>
+							<span>Цена:25,000р.</span>
+						</div>
+					</div>
+					<div class="blocks_item bed bed1">
+						<img src="images/catalog/bed1.jpeg" class="img">
+						<div class="disp">
+							<p class="fon">Кровать</p>
+							<span>Цена:20,000р.</span>
+						</div>
+					</div>
+					
+					<div class="blocks_item table table2">
+						<img src="images/catalog/table2.jpg" class="img">
+						<div class="disp">
+							<p class="fon">Стол</p>
+							<span>Цена:20,000р.</span>
+						</div>
+					</div>
+					<div class="blocks_item sofa sofa2">
+						<img src="images/catalog/sofa2.jpg" class="img">
+						<div class="disp">
+							<p class="fon">Диван</p>
+							<span>Цена:25,000р.</span>
+						</div>
+					</div>
+					<div class="blocks_item bed bed2">
+						<img src="images/catalog/bed2.jpg" class="img">
+						<div class="disp">
+							<p class="fon">Кровать</p>
+							<span>Цена:30,000р.</span>
+						</div>
+					</div>
+					<div class="blocks_item wardrobe wardrobe2">
+						<img src="images/catalog/wardrobe2.jpg" class="img">
+						<div class="disp">
+							<p class="fon">Шкаф</p>
+							<span>Цена:35,000р.</span>
+						</div>
+					</div>
+					<div class="blocks_item bed bed3">
+						<img src="images/catalog/bed3.jpg" class="img">
+						<div class="disp">
+							<p class="fon">Кровать</p>
+							<span>Цена:40,000р.</span>
+						</div>
+					</div>
+					<div class="blocks_item wardrobe wardrobe3">
+						<img src="images/catalog/wardrobe3.jpg" class="img">
+						<div class="disp">
+							<p class="fon">Шкаф</p>
+							<span>Цена:45,000р.</span>
+						</div>
+					</div>
+					<div class="blocks_item table table3">
+						<img src="images/catalog/table3.jpg" class="img">
+						<div class="disp">
+							<p class="fon">Стол</p>
+							<span>Цена:30,000р.</span>
+						</div>
+					</div>
+					<div class="blocks_item sofa sofa3">
+						<img src="images/catalog/sofa3.jpg" class="img">
+						<div class="disp">
+							<p class="fon">Диван</p>
+							<span>Цена:35,000р.</span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+	
+	
+	<section class="footer">
+		<div class="box-container">
+			<div class="box">
+				<h3> <i class="fa fa-home"></i> Мебельный магазин</h3>
+				<p>Наши социальные сети, все ссылки приведены ниже.</p>
+				
+				<div class="share">
+					<a href="#" class="fa fa-facebook"></a>
+					<a href="#" class="fa fa-twitter"></a>
+					<a href="#" class="fa fa-instagram"></a>
+					<a href="#" class="fa fa-linkedin"></a>
+				</div>
+			</div>
+			
+			<div class="box">
+				<h3> Контакты </h3>
+				<a href="#" class="links"> <i class="fa fa-phone"></i> +7 987 654 32 10</a>
+				<a href="#" class="links"> <i class="fa fa-phone"></i> +7 981 234 56 78</a>
+				<a href="#" class="links"> <i class="fa fa-envelope"></i> magazin-mebeli@mail.ru</a>
+				<a href="#" class="links"> <i class="fa fa-map-marker"></i> Истра, Московская область</a>
+				
+			</div>
+			
+			<div class="box">
+				<h3> Быстрые ссылки </h3>
+				<a href="index.html" class="links"> <i class="fa fa-arrow-right"></i> Главная</a>
+				<a href="review.html" class="links"> <i class="fa fa-arrow-right"></i> О Нас</a>
+				<a href="opinion.html" class="links"> <i class="fa fa-arrow-right"></i> Отзыв</a>
+				<a href="categories.html" class="links"> <i class="fa fa-arrow-right"></i> Каталог</a>
+				<a href="contacts.html" class="links"> <i class="fa fa-arrow-right"></i> Контакты</a>
+				<a href="register.html" class="links"> <i class="fa fa-arrow-right"></i> Регистрация</a>
+				<a href="login.html" class="links"> <i class="fa fa-arrow-right"></i> Вход</a>
+			</div>
+			
+			<div class="box">
+				<h3> Новостная рассылка </h3>
+				<p>Узнавайте первыми о новых поступлениях и выгодных акциях в мире мебели</p>
+				<input type="email" placeholder="ваш адрес электронной почты" class="email">
+				<input type="submit" value="Отправить" class="btn">
+			</div>
+		</div>
+	</section>
+	
+	<script src="js/main.js"></script>
+	</body>
+</html>
+
+
+
+

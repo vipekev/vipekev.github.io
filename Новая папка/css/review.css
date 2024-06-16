@@ -1,0 +1,345 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0;500;1,300&display=swap');
+
+:root {
+	--green: green;
+	--black: #50a5a7;
+	--light-color: #600;
+	--box-shadow: 0 0.1rem 1rem rgba(0,0,0.1);
+	--border:  0.2rem solid rgba(0,0,0.1);
+	--outline:  0.1rem solid rgba(0,0,0.1);
+}
+
+* {
+	font-family: 'Poppins', sans-serif;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	outline: none;
+	border: none;
+	text-decoration: none;
+	text-transform: capitalize;
+	transition: all .2s linear; 
+}
+
+html {
+	font-size: 62.5%;
+	overflow-x: hidden;
+	scroll-behavior: smooth;
+	scroll-padding-top: 7rem;
+}
+
+body {
+	#background: #00000096; 
+	background: linear-gradient(to right, #18483a, #1d4e89);
+	#eee
+}
+
+section {
+	padding: 2rem 9%;
+}
+
+.heading {
+	text-align: center;
+	padding: 2rem 0;
+	padding-bottom: 3rem;
+	font-size: 3.5rem;
+}
+
+.heading span {
+	background: green;
+	color: #fff;
+	display: inline-block;
+	padding: .5rem 3rem;
+	clip-path: polygon(100% 0, 93% 50%, 100% 99%, 0% 100%, 7% 50%, 0% 0%);
+}
+
+.header {
+	border: 2px solid;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 2rem 9%;
+	background: #fff;
+	box-shadow: var(--box-shadow);
+}
+
+.header .logo {
+	font-size: 2.5rem;
+	font-weight: bolder;
+}
+
+.header .logo i {
+	color: var(--green);
+}
+
+.header .navbar a {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 1.7rem;
+	margin: 0 1rem;
+	color: var(--black);
+}
+
+.header .navbar .test2 {
+	#background-color: gray;
+	color: red;
+}
+
+.header .navbar a:hover {
+	color: var(--green);
+}
+
+a {
+	color: black;
+}
+
+.header .icons div {
+	border: 1px solid;
+	height: 4.5rem;
+	width: 4.5rem;
+	line-height: 4.5rem;
+	border-radius: .5rem;
+	background: #eee;
+	color: #0f76a4;
+	font-size: 2rem;
+	margin-right: .3rem;
+	text-align: center;
+	cursor: pointer;
+}
+
+.header .icons div:hover {
+	background: gray;
+	color: white;
+}
+
+.header .search-form {
+	border: 1px solid;
+	position: absolute;
+	top: 110%;
+	right: -110%;
+	width: 30rem;
+	height: 5rem;
+	background: #fff;
+	border-radius: 0.5rem;
+	overflow: hidden;
+	display: flex;
+	align-items: center;
+	box-shadow: var(--box-shadow);
+}
+
+.header .search-form.active {
+	right: 2rem;
+	transition: .1s linear;
+}
+
+.header .search-form input {
+	height: 100%;
+	width: 100%;
+	background: none;
+	text-transform: none;
+	font-size: 1.6rem;
+	color: #50a5a7;
+	padding: 0 1.5rem;
+}
+
+.header .search-form label {
+	font-size: 2.2rem;
+	padding-right: 1.5rem;
+	cursor: pointer;
+}
+
+.header .search-form label:hover {
+	color: green;
+}
+
+.btn {
+	border: 0.2rem solid var(--black);
+	margin-top: 1rem;
+	display: inline-block;
+	padding: 0.8rem 3rem;
+	font-size: 1.7rem;
+	border-radius: .5rem;
+	color: var(--black);
+	cursor: pointer;
+	background: none;
+}
+
+.btn:hover {
+	background: var(--green);
+}
+
+.header .login-form {
+	border: 1px solid;
+	position: absolute;
+	width: 30rem;
+	top: 110%;
+	right: -110%;
+	box-shadow: var(--box-shadow);
+	padding: 2rem;
+	border-radius: .5rem;
+	background: #fff;
+	text-align: center;
+}
+
+.header .login-form.active {
+	right: 2rem;
+	transition: .1s linear;
+}
+
+.header .login-form h3 {
+	font-size: 2.5rem;
+	text-transform: uppercase;
+}
+
+.header .login-form .box {
+	width: 100%;
+	border: 1px solid;
+	margin: .7rem 0;
+	background: #eee;
+	border-radius: .5rem;
+	padding: 1rem;
+	font-size: 1.6rem;
+	text-transform: none;
+}
+
+.header .login-form p {
+	font-size: 1.2rem;
+	padding: .5rem 0;
+}
+
+.header .login-form a {
+	color: blue;
+	text-decoration: underline;
+}
+
+.home {
+	border: 1px solid;
+	display: flex;
+	justify-content: center;
+	background-size: cover;
+	padding-top: 10rem;
+	#padding-bottom: 40rem;
+}
+
+.home .content {
+	border: 2px solid;
+	text-align: center;
+	width: 120rem;
+	background: #01030394;
+	border-radius: 1.5rem;
+	padding: 10px 20px 10px 10px;
+}
+
+.home .content p {
+	text-transform: none;
+}
+
+.home .content a {
+	text-decoration: underline;
+	color: skyblue;
+}
+
+.home .content h3 {
+	color: #77dcd1;
+	font-size: 3rem;
+}
+
+.home .content p {
+	color: white;
+	font-size: 1.8rem;
+	padding: 1rem 0;
+	#line-height: 1.8;
+}
+
+.home .content .btn {
+	background: #9ddcff;
+	border: .2rem solid #03A9F4;
+	color: #151b15;
+}
+
+.home .content .btn:hover {
+	background: #fff;
+	border: .2rem solid #03A9F4;
+	color: #151b15;
+}
+
+.footer {
+	background: #fff;
+}
+
+.footer .box-container {
+	border: 0px solid;
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+	gap: 1.5rem;
+}
+
+.footer .box-container .box h3 {
+	font-size: 2.5rem;
+	padding: 1rem 0;
+}
+
+.footer .box-container .box h3 i {
+	color: green;
+}
+
+.footer .box-container .box .links {
+	display: block;
+	font-size: 1.5rem;
+	padding: 1rem 0;
+}
+
+.footer .box-container .box .links i {
+	padding-right: 0.5rem;
+	color: green;
+}
+
+.footer .box-container .box p {
+	line-height: 1.8;
+	font-size: 1.5rem;
+	padding: 1rem 0;
+}
+
+.footer .box-container .box .share a {
+	border: 0px solid;
+	height: 4rem;
+	width: 4rem;
+	line-height: 4rem;
+	border-radius: .5rem;
+	font-size: 2rem;
+	margin-left: 0.2rem;
+	background: #eee;
+	text-align: center;
+}
+
+.footer .box-container .box .email {
+	width: 100%;
+	margin: 0.7rem 0;
+	padding: 1rem;
+	border-radius: 0.5rem;
+	background: #eee;
+	font-size: 1.6rem;
+	text-transform: none;
+}
+
+.footer .box-container .box .payment-img {
+	margin-top: 2rem;
+	height: 3rem;
+}
+
+.footer .box-container .box p {
+	text-transform: none;
+}
+
+.footer .box-container .box .btn {
+	width: 100%;
+}
+
+.footer .box-container .box a {
+	text-transform: none;
+	height: 2.4rem;
+}
